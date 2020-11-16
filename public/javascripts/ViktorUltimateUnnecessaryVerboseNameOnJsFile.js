@@ -1,6 +1,7 @@
 var xhr = new XMLHttpRequest();
 var PersonerJSON; //JSON ARRAY for the JSON FILE
 
+/*
 xhr.onreadystatechange = function () {
     if (this.readyState == 4 && this.status == 200) {
 
@@ -13,6 +14,10 @@ xhr.onreadystatechange = function () {
 xhr.open("GET", "/getme", true); //Prepping for action!
 
 xhr.send(); //
+*/
+fetch("/getme")
+.then(response => response.json())
+.then(data => PersonerJSON = data)
 
 function getMeData() {
     var MinJSONiHTML = "";

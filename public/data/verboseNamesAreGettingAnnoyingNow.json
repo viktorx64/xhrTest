@@ -1,0 +1,53 @@
+[
+    {
+        "firstname": "Rutger",
+        "middlename": {
+            "first": "Ruger",
+            "second": "Roger",
+            "third": "Röger",
+            "fourth":"Robin"
+            },
+        "lastname": "Rödson",
+        "likes": {
+            "first":"Food",
+            "second":"facebook",
+            "third":"google",
+            "fourth": "CS GO"
+        },
+        "dataStored": "it's over 9000!!! ... gb"
+    },
+    {
+        "firstname": "Jörgen",
+        "middlename": {
+            "first": "Jurgen",
+            "second": "Jorger",
+            "third": "Jörgerer",
+            "fourth":"Jorbin"
+            },
+        "lastname": "Jörgson",
+        "likes": {
+            "first":"Food",
+            "second":"facebook",
+            "third":"google",
+            "fourth": "Raggar grejer"
+        },
+        "dataStored": "it's over 9000!!! ... tb"
+    },
+    {
+        "firstname": "Buggy",
+        "middlename": {
+            "first": "Tuggy",
+            "second": "Duggy",
+            "third": "Ruggi",
+            "fourth":"shuggi"
+            },
+        "lastname": "Nuggy",
+        "likes": {
+            "first":"Food",
+            "second":"facebook",
+            "third":"google",
+            "fourth": "bonde saker"
+        },
+        "dataStored": "it's over 9000!!! ... gb"
+    }
+]
